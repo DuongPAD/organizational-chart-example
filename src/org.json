@@ -1,0 +1,118 @@
+{
+  "tradingName": "Lotte Corp",
+  "organizationChildRelationship": [
+    {
+      "tradingName": "Lotte Vietnam",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Lotte Hanoi",
+          "account": [
+            {
+              "name": "Lotte Ho tay",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Keangnam",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Kim Ma",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        },
+        {
+          "tradingName": "Lotte Ho Chi Minh",
+          "account": [
+            {
+              "name": "Lotte Quan 1",
+              "product": { "name": "xxx Plans" }
+            },
+            {
+              "name": "Lotte Quan 2",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Quan 7",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tradingName": "Lotte Korea",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Lotte Seoul",
+          "account": [
+            {
+              "name": "Lotte Seoul 1",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Seoul 2",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        },
+        {
+          "tradingName": "Lotte Busan",
+          "account": [
+            {
+              "name": "Lotte Busan 1",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Busan 2",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tradingName": "Lotte JP",
+      "organizationChildRelationship": [
+        {
+          "tradingName": "Lotte Tokyo",
+          "account": [
+            {
+              "name": "Lotte Tokyo 1",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Tokyo 2",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        },
+        {
+          "tradingName": "Lotte Kyoto",
+          "account": [
+            {
+              "name": "Lotte Kyoto 1",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Kyoto 2",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Kyoto 3",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Kyoto 4",
+              "product": { "name": "325 Plans" }
+            },
+            {
+              "name": "Lotte Kyoto 5",
+              "product": { "name": "325 Plans" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
